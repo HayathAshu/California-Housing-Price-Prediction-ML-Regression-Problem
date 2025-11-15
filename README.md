@@ -11,6 +11,13 @@ Predicting median house values using Machine Learning (Regression Project)
 
 ---
 
+## 📌 Problem Statement  
+The objective of this project is to build a machine learning regression model capable of predicting the **median house value** for districts in California based on various demographic, geographic, and housing-related features.  
+Using the California Housing Dataset, the model must analyze factors such as **median income, housing age, number of rooms, population density, longitude, and latitude** to understand how each variable influences housing prices.  
+The goal is to develop an accurate, data-driven predictive system that can assist in **real estate valuation, investment analysis, and understanding housing market trends** across California.
+
+---
+
 ## 📌 Project Overview  
 This project focuses on predicting **California house prices** using multiple features such as:
 
@@ -23,6 +30,18 @@ This project focuses on predicting **California house prices** using multiple fe
 The dataset is sourced from Kaggle and is widely used for regression problems.
 
 🎯 **Goal:** Build, train, and evaluate ML models to predict *median_house_value*.
+
+---
+
+
+## 🎯 Objectives  
+
+1. Load and explore the dataset  
+2. Clean and preprocess the data  
+3. Perform exploratory data analysis (EDA)  
+4. Train and compare multiple regression models  
+5. Evaluate model performance  
+6. Identify the best model for accurate predictions  
 
 ---
 
